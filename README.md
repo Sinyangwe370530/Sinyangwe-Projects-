@@ -1,2 +1,2 @@
-# Sinyangwe-Projects-
+hello-github
 Learning for better self.
